@@ -98,7 +98,7 @@ const EmissionSummary = () => {
             {mine.isOpen && (
               <div className="details-section">
                 <div className="mine-description">
-                  <p>Mine Name: {mine.mine_name}</p>
+                  <p>Mine Name: {mine.mines_name}</p>
                   <p>State: {mine.state}</p>
                   <p>Type: {mine.mine_type}</p>
                   <p>Sink Area: {mine.sink_area} sq.m</p>
