@@ -1,35 +1,28 @@
 {
-  "name": "database",
+  "name": "carbonquest",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-    "@emailjs/browser": "^4.4.1",
-    "@emotion/react": "^11.14.0",
-    "@emotion/styled": "^11.14.0",
-    "@mui/icons-material": "^7.1.0",
-    "@mui/lab": "^7.0.0-beta.12",
-    "@mui/material": "^7.1.0",
-    "@mui/styles": "^6.4.11",
+    "@emotion/react": "^11.13.5",
+    "@emotion/styled": "^11.13.5",
+    "@mui/icons-material": "^6.1.9",
+    "@mui/lab": "^6.0.0-beta.17",
+    "@mui/material": "^6.1.9",
+    "@mui/styles": "^6.1.9",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "ajv": "^8.17.1",
-    "axios": "^1.7.9",
-    "chart.js": "^4.4.9",
+    "chart.js": "^4.4.7",
     "chartjs-plugin-datalabels": "^2.2.0",
     "leaflet": "^1.9.4",
-    "papaparse": "^5.4.1",
-    "react": "^18.2.0",
-    "react-chartjs-2": "^5.3.0",
+    "react": "^18.3.1",
+    "react-chartjs-2": "^5.2.0",
     "react-countup": "^6.5.3",
-    "react-dom": "^18.2.0"
-    "react-leaflet": "^5.0.0",
-    "react-map-gl": "^7.1.8",
-    "react-phone-number-input": "^3.4.11",
+    "react-dom": "^18.3.1",
+    "react-leaflet": "^4.2.1",
     "react-router-dom": "^7.0.2",
     "react-scripts": "5.0.1",
-    "recharts": "^2.15.3",
+    "recharts": "^2.14.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -55,5 +48,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }
