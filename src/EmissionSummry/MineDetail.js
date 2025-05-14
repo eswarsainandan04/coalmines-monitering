@@ -39,8 +39,9 @@ const MineDetail = () => {
     try {
       const apiFactorName = factorMapping[factor_name] || factor_name;
       const response = await fetch(
-        `http://localhost:5000/predict?year=${year}&factor_name=${apiFactorName}&mine_name=${mine_name}`
+            `https://mines-backend-1.onrender.com/predict?year=${year}&factor_name=${apiFactorName}&mine_name=${mine_name}`
       );
+
       const data = await response.json();
 
       if (response.ok) {
