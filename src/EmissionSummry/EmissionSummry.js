@@ -92,7 +92,7 @@ const EmissionSummary = () => {
         {coalMines.map((mine) => (
           <div className="coal-mine-item" key={mine.sno}>
             <div className="coal-mine-header" onClick={() => toggleDetails(mine.sno)}>
-              <strong>{mine.mine_name}</strong>
+              <strong>{mine.mines_name}</strong>
               <span className={`arrow ${mine.isOpen ? 'up' : 'down'}`}></span>
             </div>
             {mine.isOpen && (
