@@ -1,23 +1,7 @@
 [
+    
     {
         "sno":1,
-        "mine_name":"shyamsundar",
-        "mines_name":"A SHYAMSUNOERPURA",
-        "state":"West Bengal",
-        "district":"Paschim Bardhaman",
-        "owner":"ECL",
-        "govt\/private":"G",
-        "mine_type":"UG",
-        "sink_area":600,
-        "coal_extracted":830000,
-        "fuel_emission":33366000.0000000037,
-        "electricity_emission":300792.0,
-        "total_emission":33666792.0,
-        "methane_emission":8300000.0,
-        "sinkoffset": 8400
-    },
-    {
-        "sno":2,
         "mine_name":"ALP",
         "mines_name":"ALP",
         "state":"Telangana ",
