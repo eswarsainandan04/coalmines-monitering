@@ -1,8 +1,24 @@
 [
-    
     {
         "sno":1,
-        "mine_name":"ALP",
+        "mine_name":"shyamsundar",
+        "mines_name":"A SHYAMSUNOERPURA",
+        "state":"West Bengal",
+        "district":"Paschim Bardhaman",
+        "owner":"ECL",
+        "govt\/private":"G",
+        "mine_type":"UG",
+        "sink_area":600,
+        "coal_extracted":830000,
+        "fuel_emission":33366000.0000000037,
+        "electricity_emission":300792.0,
+        "total_emission":33666792.0,
+        "methane_emission":8300000.0,
+        "sinkoffset": 8400
+    },
+    {
+        "sno":2,
+        "mine_name":"alp",
         "mines_name":"ALP",
         "state":"Telangana ",
         "district":"Mancherial",
@@ -19,7 +35,7 @@
     },
     {
         "sno":3,
-        "mine_name":"AMALGAMATED",
+        "mine_name":"amalgamated",
         "mines_name":"AMALGAMATED KESHALPUR\nWEST MUDIDIH COLLIERY\n(AKWMC)",
         "state":"Jharkhand ",
         "district":"Dhanbad ",
@@ -36,7 +52,7 @@
     },
     {
         "sno":4,
-        "mine_name":"BANGWARA",
+        "mine_name":"bangwara",
         "mines_name":"BANGWARA",
         "state":"Madhya Pradesh",
         "district":"Shahdol",
@@ -53,7 +69,7 @@
     },
     {
         "sno":5,
-        "mine_name":"BANSRA",
+        "mine_name":"bansra",
         "mines_name":"BANSRA",
         "state":"West Bengal",
         "district":"Paschim Bardhaman",
@@ -70,7 +86,7 @@
     },
     {
         "sno":6,
-        "mine_name":"BHANORA",
+        "mine_name":"bhanora",
         "mines_name":"BHANORA W\/B (UG \u0026 OC)",
         "state":"West Bengal",
         "district":"Paschim Bardhaman",
@@ -88,7 +104,7 @@
     },
     {
         "sno":7,
-        "mine_name":"BHUBANESWARI",
+        "mine_name":"bhubaneswari",
         "mines_name":"BHUBANESWARI",
         "state":"Orissa",
         "district":"Angul ",
@@ -105,7 +121,7 @@
     },
     {
         "sno":8,
-        "mine_name":"CHORA_BLOCK",
+        "mine_name":"chora_block",
         "mines_name":"CHORA BLOCK INCLINE,\nSHANKARPUR OC \u0026\nBONBAHAL OC",
         "state":"West Bengal",
         "district":"Paschim Bardhaman",
@@ -122,7 +138,7 @@
     },
     {
         "sno":9,
-        "mine_name":"CHURCHA-RO",
+        "mine_name":"churcha-ro",
         "mines_name":"CHURCHA RO",
         "state":"Chhattisgarh",
         "district":"Korea",
@@ -139,7 +155,7 @@
     },
     {
         "sno":10,
-        "mine_name":"DIPKA",
+        "mine_name":"dipka",
         "mines_name":"DIPKA",
         "state":"Chhattisgarh",
         "district":"Korba",
@@ -173,7 +189,7 @@
     },
     {
         "sno":12,
-        "mine_name":"GDK-INC",
+        "mine_name":"gdk-inc",
         "mines_name":"GDK 11 INC",
         "state":"Telangana ",
         "district":"Peddapalli",
@@ -190,7 +206,7 @@
     },
     {
         "sno":13,
-        "mine_name":"GEVRA-OC",
+        "mine_name":"gevra-oc",
         "mines_name":"GEVRA OC",
         "state":"Chhattisgarh",
         "district":"Korba",
@@ -207,7 +223,7 @@
     },
     {
         "sno":14,
-        "mine_name":"HALDIBARI",
+        "mine_name":"haldibari",
         "mines_name":"HALDIBARI",
         "state":"Chhattisgarh",
         "district":"Korea",
@@ -224,7 +240,7 @@
     },
     {
         "sno":15,
-        "mine_name":"JAYANT",
+        "mine_name":"jayant",
         "mines_name":"JAYANT",
         "state":"Madhya Pradesh",
         "district":"Singrauli",
@@ -241,7 +257,7 @@
     },
     {
         "sno":16,
-        "mine_name":"Jhanjharia",
+        "mine_name":"jhanjharia",
         "mines_name":"JHANJHARA PROJECT COLLIERY",
         "state":"West Bengal",
         "district":"Paschim Bardhaman",
@@ -258,7 +274,7 @@
     },
     {
         "sno":17,
-        "mine_name":"KHAIRAHA",
+        "mine_name":"khairaha",
         "mines_name":"KHAIRAHA",
         "state":"Madhya Pradesh",
         "district":"Shahdol",
@@ -275,7 +291,7 @@
     },
     {
         "sno":18,
-        "mine_name":"KUSMUNDA",
+        "mine_name":"kusmunda",
         "mines_name":"KUSMUNDA",
         "state":"Chhattisgarh",
         "district":"Korba",
@@ -292,7 +308,7 @@
     },
     {
         "sno":19,
-        "mine_name":"KUYA",
+        "mine_name":"kuya",
         "mines_name":"KUYA \/KOCP",
         "state":"Jharkhand ",
         "district":"Dhanbad ",
@@ -309,7 +325,7 @@
     },
     {
         "sno":20,
-        "mine_name":"LAKHANPUR",
+        "mine_name":"lakhanpur",
         "mines_name":"LAKHANPUR",
         "state":"Orissa",
         "district":"Jharsuguda",
@@ -326,7 +342,7 @@
     },
     {
         "sno":21,
-        "mine_name":"Mohar_Moher",
+        "mine_name":"mohar_moher",
         "mines_name":"Mohar \u0026 Moher-Amlori Extension Coal Mine",
         "state":"Madhya Pradesh",
         "district":"Singrauli",
@@ -343,7 +359,7 @@
     },
     {
         "sno":22,
-        "mine_name":"AKASH_KINAREE",
+        "mine_name":"akash_kinaree",
         "mines_name":"NEW AKASH KINAREE COLLY\n(NAKC)",
         "state":"Jharkhand ",
         "district":"Dhanbad ",
@@ -360,7 +376,7 @@
     },
     {
         "sno":23,
-        "mine_name":"KUSUNDA",
+        "mine_name":"kusunda",
         "mines_name":"NEW GODHUR. KUSUNDA\nCOLLIERY",
         "state":"Jharkhand ",
         "district":"Dhanbad ",
@@ -377,7 +393,7 @@
     },
     {
         "sno":24,
-        "mine_name":"NIGAHI",
+        "mine_name":"nigahi",
         "mines_name":"NIGAHI",
         "state":"Madhya Pradesh",
         "district":"Singrauli",
@@ -394,7 +410,7 @@
     },
     {
         "sno":25,
-        "mine_name":"PHULARITAND",
+        "mine_name":"phularitand",
         "mines_name":"PHULARITAND",
         "state":"Jharkhand ",
         "district":"Dhanbad ",
@@ -411,7 +427,7 @@
     },
     {
         "sno":26,
-        "mine_name":"SHARDA-HIGHWALL",
+        "mine_name":"sharda-highwall",
         "mines_name":"SHARDA HIGHWALL",
         "state":"Madhya Pradesh",
         "district":"Shahdol",
@@ -428,7 +444,7 @@
     },
     {
         "sno":27,
-        "mine_name":"TETULMARI",
+        "mine_name":"tetulmari",
         "mines_name":"TETULMARI",
         "state":"Jharkhand ",
         "district":"Dhanbad ",
